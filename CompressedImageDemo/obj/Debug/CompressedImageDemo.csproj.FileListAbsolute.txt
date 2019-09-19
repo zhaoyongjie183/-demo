@@ -1,0 +1,17 @@
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\bin\Debug\CompressedImageDemo.exe
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\bin\Debug\CompressedImageDemo.pdb
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.csprojResolveAssemblyReference.cache
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.Form1.resources
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.Properties.Resources.resources
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.csproj.GenerateResource.Cache
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.exe
+D:\学习资料\项目\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.pdb
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\bin\Debug\CompressedImageDemo.exe
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\bin\Debug\CompressedImageDemo.pdb
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.Form1.resources
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.exe
+C:\Users\Administrator\Desktop\CompressedImageDemo\CompressedImageDemo\obj\Debug\CompressedImageDemo.pdb
